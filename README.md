@@ -1,6 +1,6 @@
 ### Olá Visitante, Eu sou o Breno 👋
 
-- 🔭 Atualmente estou procurando oportunidades de emprego na área de Programação.
+- 🔭 Atualmente estou procurando oportunidades de emprego na área de Programação & Dev.
 - 🌱 Estou aprendendo; Html,Css,Java, Js, Pyhton.༼ つ ◕_◕ ༽つ
 - 📫 Contato; fakeblackwolf001@gmail.com
 - 👀 Quero aprender tudo oque puder sobre Desenvolvimento.
