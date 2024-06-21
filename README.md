@@ -1,7 +1,7 @@
 ### Hello, Eu sou o Breno 👋
 
-- 🔭 Atualmente estou procurando oportunidades de emprego na área de Programação.
-- 🌱 Html,Css,Java, Js, Pyhton.
+- 🔭 Atualmente procuro oportunidades de experiencia na área de Programação.
+- ✔ Html,Css,Js, Java, Pyhton.
 - 📫 Contato; fakeblackwolf001@gmail.com
 <div style="display: inline_block"><br>
   <img align="center" alt="Brenofk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
